@@ -1,16 +1,26 @@
-### Hi there 👋
+# Olá! 👋 Sou o Robert Alexander!
 
-<!--
-**Robyte99/Robyte99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bem-vindo ao meu perfil do GitHub! Este é o meu espaço onde compartilho projetos, aprendizados e colaborações. Fique à vontade para explorar meu trabalho e entrar em contato comigo para discutir ideias e colaborações!
 
-Here are some ideas to get you started:
+## 🧰 Tecnologias e Ferramentas
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 **Linguagens que já trabalhei:**
+  - JavaScript
+  - HTML
+  - CSS
+ 
+- 📘 **Atualmente estudando:**
+  - React
+
+## 📫 Entre em Contato
+
+- **LinkedIn:** [Robert Alexander](https://www.linkedin.com/in/robert-alexander-243364192/)
+- **Email:** robert.alexrodrigues99@gmail.com
+
+## 📊 Estatísticas do GitHub
+
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Robyte99&show_icons=true&theme=dark) ![Linguagens mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Robyte99&layout=compact&theme=dark)
+
+---
+
+Obrigado por visitar o meu perfil! Espero que encontre algo interessante aqui. Não hesite em me seguir ou entrar em contato para colaborações e discussões. 😄
